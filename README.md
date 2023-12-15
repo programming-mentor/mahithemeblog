@@ -1,1 +1,1 @@
-# Mahithemeblog
+# Mahi theme blog
